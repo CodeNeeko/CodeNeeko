@@ -1,4 +1,4 @@
-### Hi there 👋
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/CodeNeeko/CodeNeeko/banner.gif">
 
 <!--
 **CodeNeeko/CodeNeeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
