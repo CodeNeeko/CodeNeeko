@@ -1,5 +1,4 @@
 
-![banner](https://github.com/CodeNeeko/CodeNeeko/assets/68955011/4c8913f7-790f-4a02-910f-4009d191a547)
 
 <!--
 **CodeNeeko/CodeNeeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
