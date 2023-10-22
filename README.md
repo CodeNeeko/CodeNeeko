@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/CodeNeeko/CodeNeeko/blob/8f6255f9df119343bd595c0539b41d54973616ff/banner.gif">
 </div>
 
 
