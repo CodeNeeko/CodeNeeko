@@ -1,4 +1,4 @@
-<div align=center>
+<div>
   ![banner](https://github.com/CodeNeeko/CodeNeeko/assets/68955011/b786f81e-b4a5-4780-a8b9-aed0ecb36106)
 </div>
 
