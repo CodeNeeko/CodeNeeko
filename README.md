@@ -2,10 +2,6 @@
 <img alt="GIF" align="center" src="https://github.com/CodeNeeko/CodeNeeko/blob/1b844d8099235b02143d3617635960cead254ab8/world.gif">
 </div>
 
-<script>NekoType="peach"</script>
-<h1 id=nl><script src="https://webneko.net/n20171213.js"></script><a 
-href="https://webneko.net">Neko</a></h1>
-
 <!--
 ![banner](https://github.com/CodeNeeko/CodeNeeko/assets/68955011/b786f81e-b4a5-4780-a8b9-aed0ecb36106)
 https://github.com/CodeNeeko/CodeNeeko/blob/8f6255f9df119343bd595c0539b41d54973616ff/banner.gif
